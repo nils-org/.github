@@ -1,0 +1,8 @@
+{
+    "name": "Publish Documentation",
+    "description": "Force-publish documentation in cake.recipe-based projects",
+    "iconName": "cake-icon",
+    "filePatterns": [
+        ".*\\.cake$"
+    ]
+}

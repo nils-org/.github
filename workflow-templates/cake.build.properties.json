@@ -1,0 +1,8 @@
+{
+    "name": "Build",
+    "description": "Build the projects, including unit-tests and all (--taget=CI)",
+    "iconName": "cake-icon",
+    "filePatterns": [
+        ".*\\.cake$"
+    ]
+}

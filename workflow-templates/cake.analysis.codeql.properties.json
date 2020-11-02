@@ -1,0 +1,8 @@
+{
+    "name": "CodeQL Analysis",
+    "description": "Build the project using the default target and runs CodeQL-Analysis",
+    "iconName": "cake-icon",
+    "filePatterns": [
+        ".*\\.cake$"
+    ]
+}

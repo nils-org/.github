@@ -1,0 +1,8 @@
+{
+    "name": "Cake dependabot",
+    "description": "Update references in Cake-files using cake-dependabot-action",
+    "iconName": "cake-icon",
+    "filePatterns": [
+        ".*\\.cake$"
+    ]
+}
